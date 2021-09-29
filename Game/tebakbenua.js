@@ -5,5 +5,8 @@
    "jawaban": " Jawaban"
   },
   {
+   "index": 1,
+   "soal": "benua pertama yg Ada didunia adalah... ", 
+   "jawaban": "eurasia"
   }
 ]
