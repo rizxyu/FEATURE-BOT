@@ -29,5 +29,11 @@
  "tema": "tanaman",
  "soal": "tanaman apa yang batangnya berduri dan bunganya berwarna merah", 
  "jawaban": "mawar"
+ }, {
+ "id": 5,
+ "creator": "Team Fear", 
+ "tema": "sayur",
+ "soal": "sayur yg memiliki vitamin A dan dapat menyehatkan mata adalah", 
+ "jawaban": "wortel"
  }
 ]
