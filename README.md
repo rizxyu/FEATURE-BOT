@@ -5,7 +5,7 @@
 > this script for bot whatsapp or TELEGRAM
 
 * 𝙀𝙍𝙊𝙍? 𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀!⚛
-[Saweria](['https://wa.me/6282328303332']) 
+[`WHATSAPP`](https://wa.me/6282328303332&text=bug) 
 
 * Credit
 
