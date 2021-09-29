@@ -1,9 +1,14 @@
 [
  {
   "id": 0,
-  "url": "tautan foto"
+  "url": "tautan foto", 
+  "url2": "tautan foto2"
  }, {
   "id": 1,
-  "url": "tautan foto"
- }
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuArOAE7jGAEH6TgaXaxuTxGWL0J7jMYxMuVaaMrgOrVA82hRXFZxamCo&s=10"
+  "url2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfpcFfCqQVOF3-y4wvo9LVEZNaSqkkuKci_RbwJrKr9Gu4zXC_L_GYL0&s=10", 
+ }, { 
+  "id": 2,
+  "url": "", 
+  "url2": "", 
 ]
