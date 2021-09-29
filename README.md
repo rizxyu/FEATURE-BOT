@@ -1,2 +1,6 @@
-# game-bot
-Game for bot whatsapp
+# GAME FOR BOT
+* info:
+> this script for bot whatsapp or TELEGRAM
+
+#SUPPORT ME! 
+
