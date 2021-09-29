@@ -28,5 +28,10 @@
     "index": 5,
     "soal": "Musim apa yang ada di benua bagian utara", 
     "jawaban": "dingin"
-  }
+  }, 
+  {
+    "index": 6,
+    "soal": "Luas benua amerika", 
+    "jawaban": "42.292.000km"
+    }
 ]
