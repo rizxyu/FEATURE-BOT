@@ -1,1 +1,14 @@
-
+[
+ { 
+  "id": 0, 
+  "creator": "penggawe", 
+  "soal": "pacelathon", 
+  "jawaban": "jawaban"
+ }, 
+ {
+  "id": 1,
+  "creator": "Rizxyu", 
+  "soal": "Eror not found subject", 
+  "jawaban": "null"
+ }
+]
