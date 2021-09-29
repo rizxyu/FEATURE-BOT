@@ -7,7 +7,6 @@
 
 * Credit
 
-```
-> Rizxyu (creator) 
-> Muhammad Restu (pengembang) 
-```
+
+> Rizxyu (creator) \n
+Muhammad Restu (pengembang) 
