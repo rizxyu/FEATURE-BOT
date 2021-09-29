@@ -13,5 +13,10 @@
     "index": 2,
     "pertanyaan": "(55+30)^2", 
     "jawaban": "7225"
+    }, 
+    {
+    "index": 3,
+    "pertanyaan": "28 adalah berapa persen dari 70", 
+    "jawaban": "40"
     }
 ]
