@@ -1,1 +1,21 @@
-
+[
+ {
+ "id": 0,
+ "creator": "pembuat", 
+ "tema": "subject",
+ "soal": "pertanyaan", 
+ "jawaban": "jawaban"
+ }, {
+ "id": 1,
+ "creator": "Team Fear", 
+ "tema": "tanaman",
+ "soal": "tanaman apa yang berduri dan bau nya menyengat", 
+ "jawaban": "durian"
+ }, {
+ "id": 2,
+ "creator": "Team Fear", 
+ "tema": "buah",
+ "soal": "buah apa yang rasanya asam", 
+ "jawaban": "lemon"
+ }
+]
