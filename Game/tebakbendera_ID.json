@@ -23,5 +23,20 @@
     "index": 4,
     "soal": "🏳‍🌈", 
     "jawaban": "bendera anjing"
+    }, 
+   {
+    "index": 5,
+    "soal": "🇧🇳", 
+    "jawaban": "brunei"
+    }, 
+   {
+    "index": 6,
+    "soal": "🇵🇬", 
+    "jawaban": "papua nugini"
+    }, 
+    {
+    "index": 7,
+    "soal": "🇦🇷", 
+    "jawaban": "argentina"
     }
 ]
