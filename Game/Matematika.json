@@ -8,5 +8,10 @@
     "index": 1,
     "pertanyaan": "jika p = 2 dan q = 3 serta rp^2 + 2pq + q^2 berapakah : pqr", 
     "jawaban": "150"
+    }, 
+    {
+    "index": 2,
+    "pertanyaan": "(55+30)^2", 
+    "jawaban": "7225"
     }
 ]
