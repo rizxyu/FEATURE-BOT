@@ -38,5 +38,14 @@
     "index": 7,
     "soal": "🇦🇷", 
     "jawaban": "argentina"
-    }
+    },
+    {
+ "index": 8,
+ "soal": "🇧🇷",
+ "jawaban": "brazil"
+ }, {
+ "index": 9,
+ "soal": "🇨🇱",
+ "jawaban": "chili"
+ }
 ]
