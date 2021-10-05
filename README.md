@@ -11,11 +11,6 @@
 
 [`WHATSAPP`](https://wa.me/6282328303332?text=bug) 
 
-* Credit
-> Rizxyu (creator) 
-* Note📑
-> Ind: Script ini sedang dibuat atau tahap pengembangan
-
 # How to send Image or Game
 ```bash
 let axios = require("axios")
