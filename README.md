@@ -13,7 +13,7 @@
 * Note📑
 > Ind: Script ini sedang dibuat atau tahap pengembangan
 
-* How to send Image or Game
+# How to send Image or Game
 ```bash
 let axios = require("axios")
 
