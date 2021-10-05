@@ -1,5 +1,8 @@
 # GAME FOR BOT🎮 & RANDOM IMG
-![game-box-gif](https://user-images.githubusercontent.com/88314302/135240132-4919173e-b68c-482a-885d-d3e9bc916d18.gif)
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/88314302/135240132-4919173e-b68c-482a-885d-d3e9bc916d18.gif" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+<h1 align="center">stikerinbot</h1>
 
 * info:
 > this script for bot whatsapp or TELEGRAM
