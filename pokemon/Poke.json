@@ -1,1 +1,8 @@
-[]
+[
+  {
+"id": 0,
+"img": "tautan",
+"cname": "nama pokemon",
+"power": "kekuatan"
+}
+]
