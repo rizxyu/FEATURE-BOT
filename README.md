@@ -12,3 +12,13 @@
 > Rizxyu (creator) 
 * Note📑
 > Ind: Script ini sedang dibuat atau tahap pengembangan
+
+* How to send Image or Game
+```bash
+let axios = require("axios")
+
+let { data } = await axios("https://github.com/Rizxyu/Rizx-Json/raw/main/random/cecan.json")
+let url = data[Math.floor(Math.random() * data.length)]
+
+conn.sendFile(m.chat, url.url, "gambar.png", "Tes")
+```
