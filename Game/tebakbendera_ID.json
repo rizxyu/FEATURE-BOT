@@ -48,5 +48,30 @@
     "index": 10,
     "soal": "🇲🇾",
     "jawaban": "malaysia"
+  },
+  {
+    "index": 11,
+    "soal": "🇯🇵",
+    "jawaban": "jepang"
+  },
+  {
+    "index": 12,
+    "soal": "🇷🇺",
+    "jawaban": "rusia"
+  },
+  {
+    "index": 13,
+    "soal": "🇵🇸",
+    "jawaban": "palestina"
+  },
+  {
+    "index": 14,
+    "soal": "🇨🇭",
+    "jawaban": "swiss"
+  },
+  {
+    "index": 15,
+    "soal": "🇳🇱",
+    "jawaban": "belanda"
   }
 ]
