@@ -1,51 +1,52 @@
 [
   {
-    "index": 0,
-    "soal": " Pertanyaan",
-    "jawaban": " Jawaban"
-  },
-  {
-   "index": 1,
+   "index": 0,
    "soal": "🇨🇳", 
    "jawaban": "china"
   }, 
   {
-    "index": 2,
+    "index": 1,
     "soal": "🇨🇷", 
     "jawaban": "thailand"
-   }, 
-   {
-    "index": 3,
+  }, 
+  {
+    "index": 2,
     "soal": "🇲🇨", 
     "jawaban": "polandia"
-   }, 
-   {
+  }, 
+  {
+    "index": 3,
+    "soal": "🇮🇩", 
+    "jawaban": "indonesia"
+  }, 
+  {
     "index": 4,
-    "soal": "🏳‍🌈", 
-    "jawaban": "bendera anjing"
-    }, 
-   {
-    "index": 5,
     "soal": "🇧🇳", 
     "jawaban": "brunei"
-    }, 
-   {
-    "index": 6,
+  }, 
+  {
+    "index": 5,
     "soal": "🇵🇬", 
     "jawaban": "papua nugini"
-    }, 
-    {
-    "index": 7,
+  }, 
+  {
+    "index": 6,
     "soal": "🇦🇷", 
     "jawaban": "argentina"
-    },
-    {
- "index": 8,
- "soal": "🇧🇷",
- "jawaban": "brazil"
- }, {
- "index": 9,
- "soal": "🇨🇱",
- "jawaban": "chili"
- }
+  },
+  {
+    "index": 7,
+    "soal": "🇧🇷",
+    "jawaban": "brazil"
+  },
+  {
+    "index": 9,
+    "soal": "🇨🇱",
+    "jawaban": "chili"
+  },
+  {
+    "index": 10,
+    "soal": "🇲🇾",
+    "jawaban": "malaysia"
+  }
 ]
