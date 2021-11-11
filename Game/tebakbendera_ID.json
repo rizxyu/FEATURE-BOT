@@ -12,7 +12,7 @@
   {
     "index": 2,
     "soal": "🇲🇨", 
-    "jawaban": "polandia"
+    "jawaban": "monako"
   }, 
   {
     "index": 3,
@@ -73,5 +73,10 @@
     "index": 15,
     "soal": "🇳🇱",
     "jawaban": "belanda"
+  },
+  {
+    "index": 16,
+    "soal": "🇵🇱",
+    "jawaban": "polandia"
   }
 ]
