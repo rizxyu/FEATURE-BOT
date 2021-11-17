@@ -78,5 +78,30 @@
     "index": 16,
     "soal": "🇵🇱",
     "jawaban": "polandia"
+  },
+  {
+    "index": 17,
+    "soal": "🇦🇺",
+    "jawaban": "australia"
+  },
+  {
+    "index": 18,
+    "soal": "🇺🇦",
+    "jawaban": "ukraina"
+  },
+  {
+    "index": 19,
+    "soal": "🇵🇫",
+    "jawaban": "polinesia"
+  },
+  {
+    "index": 20,
+    "soal": "🇺🇸",
+    "jawaban": "as"
+  },
+  {
+    "index": 21,
+    "soal": "🇬🇧",
+    "jawaban": "uk"
   }
 ]
