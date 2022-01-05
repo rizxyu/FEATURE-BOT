@@ -103,5 +103,15 @@
     "index": 21,
     "soal": "🇬🇧",
     "jawaban": "uk"
+  },
+  {
+    "index": 22,
+    "soal": "🇸🇪",
+    "jawaban": "swedia"
+  },
+  {
+    "index": 23,
+    "soal": "🇻🇳",
+    "jawaban": "vietnam"
   }
 ]
